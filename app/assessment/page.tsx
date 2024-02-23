@@ -22,13 +22,13 @@ export default function Page() {
                         <Link href="/assessment/compare">Framework Comparison - Next.js & GatsbyJS</Link>
                     </li>
                     <li>
-                        <Link href="/assessment/infrastructure">Infrastructure</Link>
+                        <Link href="/assessment/platform">Platform -- Edge Functions, Serverless Functions, or Edge Middleware with Vercel?</Link>
                     </li>
                     <li>
-                        <Link href="/assessment/redirect">Redirect to /blog</Link>
+                        <Link href="/assessment/redirect">How do I redirect /blog to another site?</Link>
                     </li>
                     <li>
-                        <Link href="/assessment/concerns">Customer Concerns</Link>
+                        <Link href="/assessment/customer-follow-up">Customer Follow-up: Please fix this for me.</Link>
                     </li>
                     <li>
                         <Link href="/assessment/no-index">No Search Engine Indexing</Link>
