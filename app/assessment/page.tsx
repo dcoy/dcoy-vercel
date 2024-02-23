@@ -7,7 +7,7 @@ export default function Page() {
                 <Link
                     href="/"
                 >
-                Assessment
+                David Coy's Sr. CSE Assessment Answers
                 </Link>{" "}
             {/* <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                 -&gt;
@@ -19,7 +19,7 @@ export default function Page() {
                         <Link href="/assessment/challenge">Solving a Challenge</Link>
                     </li>
                     <li>
-                        <Link href="/assessment/compare">Framework Comparison - Next.js & Nuxt.js</Link>
+                        <Link href="/assessment/compare">Framework Comparison - Next.js & GatsbyJS</Link>
                     </li>
                     <li>
                         <Link href="/assessment/infrastructure">Infrastructure</Link>
